@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-# Замените на ваш реальный домен
-Sitemap: https://example.ru/sitemap.xml
+Sitemap: https://tentmaster72.ru/sitemap.xml
