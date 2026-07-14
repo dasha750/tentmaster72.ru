@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Замените example.ru на ваш реальный домен во всех строках ниже -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://example.ru/index.html</loc><priority>1.0</priority></url>
-  <url><loc>https://example.ru/tents.html</loc><priority>0.9</priority></url>
-  <url><loc>https://example.ru/ukryvnoy.html</loc><priority>0.9</priority></url>
-  <url><loc>https://example.ru/brezent.html</loc><priority>0.9</priority></url>
-  <url><loc>https://example.ru/services.html</loc><priority>0.8</priority></url>
-  <url><loc>https://example.ru/contacts.html</loc><priority>0.7</priority></url>
-  <url><loc>https://example.ru/blog.html</loc><priority>0.8</priority></url>
-  <url><loc>https://example.ru/kak-zamerit-pritsep.html</loc><priority>0.7</priority></url>
-  <url><loc>https://example.ru/kak-vybrat-plotnost.html</loc><priority>0.7</priority></url>
-  <url><loc>https://example.ru/pvh-ili-brezent.html</loc><priority>0.7</priority></url>
-  <url><loc>https://example.ru/uhod-za-tentom.html</loc><priority>0.7</priority></url>
+  <url><loc>https://tentmaster72.ru/index.html</loc><priority>1.0</priority></url>
+  <url><loc>https://tentmaster72.ru/tents.html</loc><priority>0.9</priority></url>
+  <url><loc>https://tentmaster72.ru/ukryvnoy.html</loc><priority>0.9</priority></url>
+  <url><loc>https://tentmaster72.ru/brezent.html</loc><priority>0.9</priority></url>
+  <url><loc>https://tentmaster72.ru/services.html</loc><priority>0.8</priority></url>
+  <url><loc>https://tentmaster72.ru/contacts.html</loc><priority>0.7</priority></url>
+  <url><loc>https://tentmaster72.ru/blog.html</loc><priority>0.8</priority></url>
+  <url><loc>https://tentmaster72.ru/kak-zamerit-pritsep.html</loc><priority>0.7</priority></url>
+  <url><loc>https://tentmaster72.ru/kak-vybrat-plotnost.html</loc><priority>0.7</priority></url>
+  <url><loc>https://tentmaster72.ru/pvh-ili-brezent.html</loc><priority>0.7</priority></url>
+  <url><loc>https://tentmaster72.ru/uhod-za-tentom.html</loc><priority>0.7</priority></url>
 </urlset>
